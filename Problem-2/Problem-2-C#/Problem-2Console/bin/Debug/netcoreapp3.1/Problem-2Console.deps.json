@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem-2Console/1.0.0": {
+        "dependencies": {
+          "Problem2LIBRARY": "1.0.0"
+        },
+        "runtime": {
+          "Problem-2Console.dll": {}
+        }
+      },
+      "Problem2LIBRARY/1.0.0": {
+        "runtime": {
+          "Problem2LIBRARY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem-2Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem2LIBRARY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

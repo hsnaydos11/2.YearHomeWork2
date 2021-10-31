@@ -1,0 +1,6 @@
+﻿  InfixLibrary.cpp
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C++\Problem-3\InfixLibrary.cpp(46,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C++\Problem-3\InfixLibrary.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C++\Problem-3\InfixLibrary.cpp(141,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C++\Problem-3\InfixLibrary.cpp(18): warning C4715: 'applyOp': not all control paths return a value
+  Problem-3.vcxproj -> C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C++\Debug\Problem-3Library.lib

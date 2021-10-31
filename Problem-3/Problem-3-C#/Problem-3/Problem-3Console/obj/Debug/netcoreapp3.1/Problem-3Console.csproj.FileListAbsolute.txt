@@ -1,0 +1,16 @@
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.exe
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.deps.json
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.runtimeconfig.json
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.runtimeconfig.dev.json
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.dll
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Console.pdb
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Library.dll
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\bin\Debug\netcoreapp3.1\Problem-3Library.pdb
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.csproj.CopyComplete
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.dll
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.pdb
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-3\Problem-3-C#\Problem-3\Problem-3Console\obj\Debug\netcoreapp3.1\Problem-3Console.genruntimeconfig.cache

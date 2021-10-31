@@ -1,0 +1,8 @@
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\bin\Debug\netcoreapp3.1\Problem-2Library.deps.json
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\bin\Debug\netcoreapp3.1\Problem-2Library.dll
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\bin\Debug\netcoreapp3.1\Problem-2Library.pdb
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\obj\Debug\netcoreapp3.1\Problem-2Library.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\obj\Debug\netcoreapp3.1\Problem-2Library.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\obj\Debug\netcoreapp3.1\Problem-2Library.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\obj\Debug\netcoreapp3.1\Problem-2Library.dll
+C:\Users\Hasan\Desktop\2.YEAR-HW.2\Problem-2\Problem-2-C#\Problem-2\Problem-2\obj\Debug\netcoreapp3.1\Problem-2Library.pdb
